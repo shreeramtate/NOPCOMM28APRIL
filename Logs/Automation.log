@@ -1,0 +1,66 @@
+2024-05-03 00:05:12,773 : INFO : Test_003_Addcustomer : test_AddCustomer : 22 : ****** Add Customer TestCase started******* 
+2024-05-03 00:05:23,893 : INFO : Test_003_Addcustomer : test_AddCustomer : 29 : ********Logged in to main page********* 
+2024-05-03 00:05:23,894 : INFO : Test_003_Addcustomer : test_AddCustomer : 30 : ********Add customer steps started********* 
+2024-05-03 00:05:29,515 : INFO : Test_003_Addcustomer : test_AddCustomer : 33 : ********Add new Customers Page started********* 
+2024-05-03 00:05:44,005 : INFO : Test_003_Addcustomer : test_AddCustomer : 51 : ********Saved Customer details********* 
+2024-05-03 00:05:45,595 : INFO : Test_003_Addcustomer : test_AddCustomer : 58 : *******Add Customer Test Case Passed Successfully********** 
+2024-05-03 00:05:57,422 : INFO : Test_003_Addcustomer : test_AddCustomer : 65 : **********Ending Add customer TestCase ********* 
+2024-05-03 09:09:20,589 : INFO : Test_SearchCustomerByEmail : test_SearchCustByEmail : 22 : ****** Search Customer by Email****** 
+2024-05-03 09:10:16,679 : INFO : Test_SearchCustomerByEmail : test_SearchCustByEmail : 22 : ****** Search Customer by Email****** 
+2024-05-03 09:21:48,659 : INFO : Test_SearchCustomerByEmail : test_SearchCustByEmail : 22 : ****** Search Customer by Email****** 
+2024-05-03 09:36:21,110 : INFO : Test_SearchCustomerByEmail : test_SearchCustByEmail : 22 : ****** Search Customer by Email****** 
+2024-05-03 19:23:47,426 : INFO : Test_SearchCustomerByEmail : test_SearchCustByEmail : 22 : ****** Search Customer by Email****** 
+2024-05-03 19:36:52,378 : INFO : Test_SearchCustomerByEmail : test_SearchCustByEmail : 22 : ****** Search Customer by Email****** 
+2024-05-03 19:37:03,754 : INFO : Test_SearchCustomerByEmail : test_SearchCustByEmail : 40 : ****** Search Customer Failed ****** 
+2024-05-03 19:37:05,755 : INFO : Test_SearchCustomerByEmail : test_SearchCustByEmail : 44 : ****** Search Customer By email Test case Finished****** 
+2024-05-03 19:38:56,659 : INFO : Test_SearchCustomerByEmail : test_SearchCustByEmail : 22 : ****** Search Customer by Email****** 
+2024-05-03 19:39:19,460 : INFO : Test_SearchCustomerByEmail : test_SearchCustByEmail : 40 : ****** Search Customer Failed ****** 
+2024-05-03 19:39:21,463 : INFO : Test_SearchCustomerByEmail : test_SearchCustByEmail : 44 : ****** Search Customer By email Test case Finished****** 
+2024-05-03 19:41:41,205 : INFO : Test_SearchCustomerByEmail : test_SearchCustByEmail : 22 : ****** Search Customer by Email****** 
+2024-05-03 19:41:52,832 : INFO : Test_SearchCustomerByEmail : test_SearchCustByEmail : 40 : ****** Search Customer Failed ****** 
+2024-05-03 19:41:54,834 : INFO : Test_SearchCustomerByEmail : test_SearchCustByEmail : 44 : ****** Search Customer By email Test case Finished****** 
+2024-05-03 19:43:08,438 : INFO : Test_SearchCustomerByEmail : test_SearchCustByEmail : 22 : ****** Search Customer by Email****** 
+2024-05-03 19:43:22,344 : INFO : Test_SearchCustomerByEmail : test_SearchCustByEmail : 41 : ****** Search Customer Failed ****** 
+2024-05-03 19:45:53,137 : INFO : Test_SearchCustomerByEmail : test_SearchCustByEmail : 22 : ****** Search Customer by Email****** 
+2024-05-03 19:46:01,215 : INFO : Test_SearchCustomerByEmail : test_SearchCustByEmail : 41 : ****** Search Customer Failed ****** 
+2024-05-03 19:47:16,434 : INFO : Test_SearchCustomerByEmail : test_SearchCustByEmail : 22 : ****** Search Customer by Email****** 
+2024-05-03 19:47:23,762 : INFO : Test_SearchCustomerByEmail : test_SearchCustByEmail : 41 : ****** Search Customer Failed ****** 
+2024-05-03 19:50:50,913 : INFO : Test_SearchCustomerByEmail : test_SearchCustByEmail : 22 : ****** Search Customer by Email****** 
+2024-05-03 19:51:42,923 : INFO : Test_SearchCustomerByEmail : test_SearchCustByEmail : 22 : ****** Search Customer by Email****** 
+2024-05-03 19:58:04,440 : INFO : Test_SearchCustomerByEmail : test_SearchCustByEmail : 22 : ****** Search Customer by Email****** 
+2024-05-03 20:04:42,232 : INFO : Test_SearchCustomerByEmail : test_SearchCustByEmail : 22 : ****** Search Customer by Email****** 
+2024-05-04 06:52:25,073 : INFO : Test_003_Addcustomer : test_AddCustomer : 23 : ****** Add Customer TestCase started******* 
+2024-05-04 06:52:32,795 : INFO : Test_003_Addcustomer : test_AddCustomer : 30 : ********Logged in to main page********* 
+2024-05-04 06:52:32,795 : INFO : Test_003_Addcustomer : test_AddCustomer : 31 : ********Add customer steps started********* 
+2024-05-04 06:52:37,276 : INFO : Test_003_Addcustomer : test_AddCustomer : 34 : ********Add new Customers Page started********* 
+2024-05-04 06:52:56,346 : INFO : Test_003_Addcustomer : test_AddCustomer : 52 : ********Saved Customer details********* 
+2024-05-04 06:53:00,141 : INFO : Test_003_Addcustomer : test_AddCustomer : 59 : *******Add Customer Test Case Passed Successfully********** 
+2024-05-04 06:53:15,559 : INFO : Test_003_Addcustomer : test_AddCustomer : 66 : **********Ending Add customer TestCase ********* 
+2024-05-04 06:53:38,300 : INFO : Test_001_Login : test_Login : 35 : ****** Login Page testCase started******* 
+2024-05-04 06:53:44,259 : INFO : Test_001_Login : test_Login : 44 : ****** Login Page testCase Passed******* 
+2024-05-04 07:11:45,398 : INFO : Test_002DDT_Login : test_LoginDDT : 16 : ****** Login Page DDT testCase started ******* 
+2024-05-04 07:11:54,076 : INFO : Test_002DDT_Login : test_LoginDDT : 41 : ******DDT Test Passed********** 
+2024-05-04 07:11:57,763 : INFO : Test_002DDT_Login : test_LoginDDT : 54 : ******DDT Test Passed********** 
+2024-05-04 07:12:00,618 : INFO : Test_002DDT_Login : test_LoginDDT : 54 : ******DDT Test Passed********** 
+2024-05-04 07:12:03,256 : INFO : Test_002DDT_Login : test_LoginDDT : 54 : ******DDT Test Passed********** 
+2024-05-04 07:12:03,257 : INFO : Test_002DDT_Login : test_LoginDDT : 59 : Login DDT test Passed 
+2024-05-04 07:12:04,586 : INFO : Test_002DDT_Login : test_LoginDDT : 67 : ***End of Login DDT test Case*** 
+2024-05-04 07:12:04,586 : INFO : Test_002DDT_Login : test_LoginDDT : 68 : ***End of Login DDT 002*** 
+2024-05-04 07:12:20,730 : INFO : Test_001_Login : test_HomePage : 16 : ****** Test_001******* 
+2024-05-04 07:12:20,730 : INFO : Test_001_Login : test_HomePage : 17 : ******Verfifying home page title******* 
+2024-05-04 07:12:21,282 : INFO : Test_001_Login : test_HomePage : 25 : ****** Home Page testCase passed******* 
+2024-05-04 07:12:31,195 : INFO : Test_001_Login : test_Login : 35 : ****** Login Page testCase started******* 
+2024-05-04 07:12:36,992 : INFO : Test_001_Login : test_Login : 44 : ****** Login Page testCase Passed******* 
+2024-05-04 07:17:32,896 : INFO : Test_002DDT_Login : test_LoginDDT : 16 : ****** Login Page DDT testCase started ******* 
+2024-05-04 07:17:42,876 : INFO : Test_002DDT_Login : test_LoginDDT : 41 : ******DDT Test Passed********** 
+2024-05-04 07:17:46,864 : INFO : Test_002DDT_Login : test_LoginDDT : 54 : ******DDT Test Passed********** 
+2024-05-04 07:17:49,390 : INFO : Test_002DDT_Login : test_LoginDDT : 54 : ******DDT Test Passed********** 
+2024-05-04 07:17:51,863 : INFO : Test_002DDT_Login : test_LoginDDT : 54 : ******DDT Test Passed********** 
+2024-05-04 07:17:51,864 : INFO : Test_002DDT_Login : test_LoginDDT : 59 : Login DDT test Passed 
+2024-05-04 07:17:57,012 : INFO : Test_002DDT_Login : test_LoginDDT : 67 : ***End of Login DDT test Case*** 
+2024-05-04 07:17:57,013 : INFO : Test_002DDT_Login : test_LoginDDT : 68 : ***End of Login DDT 002*** 
+2024-05-04 07:18:26,297 : INFO : Test_001_Login : test_HomePage : 16 : ****** Test_001******* 
+2024-05-04 07:18:26,297 : INFO : Test_001_Login : test_HomePage : 17 : ******Verfifying home page title******* 
+2024-05-04 07:18:36,075 : INFO : Test_001_Login : test_HomePage : 25 : ****** Home Page testCase passed******* 
+2024-05-04 07:18:55,958 : INFO : Test_001_Login : test_Login : 35 : ****** Login Page testCase started******* 
+2024-05-04 07:18:59,231 : INFO : Test_001_Login : test_Login : 44 : ****** Login Page testCase Passed******* 
